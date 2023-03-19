@@ -4522,7 +4522,8 @@
       "type": "ckpt",
       "description": "This model is tweak and more merges mainly intended for landscapes, but works decent for people",
       "showcases": [
-          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/cheese_daddys_landscape_mix/01_landscape.webp"
+          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/cheese_daddys_landscape_mix/01_landscape.webp",
+          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/cheese_daddys_landscape_mix/02_efreak.webp"
       ],
       "version": "3.5",
       "style": "realistic",
