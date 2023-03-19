@@ -4002,7 +4002,8 @@
       "type": "ckpt",
       "description": "This model was trained on a digital painting style mainly with characters and portraits. The main objective is to train a model to be a tool to help with character design ideas",
       "showcases": [
-          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/charhelper/01_charhelper.webp"
+          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/charhelper/01_charhelper.webp",
+          "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/charhelper/02_efreak.webp"
       ],
       "version": "4",
       "style": "artistic",
