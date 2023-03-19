@@ -2087,7 +2087,8 @@
     "type": "ckpt",
     "description": "generates metalic/chrome looking images",
     "showcases": [
-      "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/chromav5/01_gigachad.webp"
+      "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/chromav5/01_gigachad.webp",
+      "https://raw.githubusercontent.com/db0/AI-Horde-image-model-reference/main/showcase/chromav5/02_gigachad.webp"
     ],
     "version": "1.6",
     "style": "generalist",
